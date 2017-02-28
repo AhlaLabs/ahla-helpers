@@ -6,6 +6,7 @@ WordPress helpers
   * myprefix_   -  functions & html classes prefix.
   * Myprefix_   -  class prefix.
   * 'myprefix'  -  text domain.
+
 Make sure you match case when you replace the strings.
 
 ## License
